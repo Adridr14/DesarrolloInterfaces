@@ -1,0 +1,29 @@
+div{
+    align-items: center;
+    text-align: center;
+    
+}
+ul{
+    background-color: rgb(174, 241, 174);
+    display: flex;
+    list-style-type:none; margin: 0;
+    padding: 0;
+    margin-left: 0px;
+    text-align: center;
+    height: 50px;
+    justify-content: center;
+    border-radius: 5px;
+    margin-right: 0px;
+    width: 100%;
+}
+li{
+    color: rgb(5, 99, 5);
+    display: inline-flex;
+    margin-left:10% ;
+    margin-right: 10%;
+    padding-top: 15px;
+   
+}
+h3{
+    font-weight:bold ;
+}
